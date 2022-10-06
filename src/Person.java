@@ -1,3 +1,5 @@
+import java.util.function.Predicate;
+
 public class Person {
     private String name;
     private String surname;
